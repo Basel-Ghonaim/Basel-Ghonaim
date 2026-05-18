@@ -4,15 +4,7 @@
 <!--                        HEADER BANNER                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Basel%20Ghonaim&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Clean%20Architecture%20Advocate%20%7C%20Full-Stack%20Learner&descSize=16&descColor=94a3b8&animation=fadeIn" width="100%" />
-
-<br/>
-
-<!-- ─── Greeting & Location ─── -->
-
-### 👋 Hello, World! I'm **Basel Ghonaim**
-
-**Computer Information Systems Graduate · Gaza City, Palestine 🇵🇸**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=I'm%20Basel%20Ghonaim&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Clean%20Architecture%20Advocate%20%7C%20Full-Stack%20Learner%20%7C%20Gaza%20City,%20Palestine%20🇵🇸&descSize=16&descColor=94a3b8&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -192,45 +184,7 @@ Demonstrates component-driven design, reusable UI patterns, and thoughtful UX fo
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
 <div align="center">
-
-<a href="https://github.com/Basel-Ghonaim">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Basel-Ghonaim&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=false&custom_title=Contribution%20Graph" width="95%" alt="Basel's Contribution Graph" />
-</a>
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CONNECT WITH ME                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always open to discussing **clean architecture**, **frontend engineering challenges**, **open-source collaboration**, or **new opportunities**.
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basel-ghonaim)
-[![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baselghonaim@gmail.com)
-[![GitHub Follow](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Basel-Ghonaim)
-
-<br/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Built%20with%20Clean%20Code%20%26%20Ambition&fontSize=18&fontColor=94a3b8&fontAlignY=65&animation=fadeIn" width="100%" alt="" />
 
 _"First, solve the problem. Then, write the code." — John Johnson_
 
