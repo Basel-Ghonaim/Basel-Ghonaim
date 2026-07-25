@@ -1,4 +1,4 @@
-x<div align="center">
+<div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                        HEADER BANNER                        -->
@@ -98,7 +98,7 @@ const Basel: Engineer = {
 |                                                       🛠️ Tool                                                        | ⚡ How I Use It                                                                                 |
 | :------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------- |
 |     ![Claude Code](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)     | Architecture reviews, complex refactoring plans, documentation, and design pattern consultation |
-| ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=antigravity&logoColor=white) | AI-native coding with codebase-aware completions and multi-file edits                           |
+                           |
 
 </div>
 
