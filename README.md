@@ -1,15 +1,5 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        HEADER BANNER                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=I'm%20Basel%20Ghonaim&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Clean%20Architecture%20Advocate%20%7C%20Full-Stack%20Learner%20%7C%20Gaza%20City,%20Palestine%20🇵🇸&descSize=16&descColor=94a3b8&animation=fadeIn" width="100%" />
-
-<br/>
-
-<!-- ─── Social & Profile Badges ─── -->
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-basel--ghonaim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basel-ghonaim)
 [![Gmail](https://img.shields.io/badge/Gmail-baselghonaim%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baselghonaim@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Basel--Ghonaim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Basel-Ghonaim)
@@ -79,29 +69,6 @@ const Basel: Engineer = {
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vscode,github,figma,postman,git,npm,pnpm,docker" height="150" />
 </a>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    AI PRODUCTIVITY                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🤖 AI-Augmented Engineering
-
-> I don't just _use_ AI tools — I **strategically integrate** them into every phase of the development lifecycle.
-
-<div align="center">
-
-|                                                       🛠️ Tool                                                        | ⚡ How I Use It                                                                                 |
-| :------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------- |
-|     ![Claude Code](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)     | Architecture reviews, complex refactoring plans, documentation, and design pattern consultation |
-                           |
-
-</div>
-
-**The result?** Faster iteration cycles, higher code quality, and an output velocity that rivals teams — without sacrificing the engineering rigor that makes software maintainable.
 
 <br/>
 
