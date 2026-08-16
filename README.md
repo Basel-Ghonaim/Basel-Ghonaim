@@ -13,7 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-basel--ghonaim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basel-ghonaim)
 [![Gmail](https://img.shields.io/badge/Gmail-baselghonaim%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baselghonaim@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Basel--Ghonaim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Basel-Ghonaim)
-[![Profile Views](https://komarev.com/ghpvc/?username=Basel-Ghonaim&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)](https://github.com/Basel-Ghonaim)
 
 </div>
 
