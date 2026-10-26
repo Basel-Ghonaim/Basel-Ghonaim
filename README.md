@@ -78,12 +78,12 @@ I'm a frontend engineer based in Gaza City, Palestine, focused on building scala
 
 <a href="https://github.com/Basel-Ghonaim">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Basel-Ghonaim&amp;custom_title=Basel%20Ghonaim%27s%20GitHub%20Stats&amp;show_icons=true&amp;hide=stars,contribs&amp;rank_icon=github&amp;border_radius=10&amp;bg_color=00000000&amp;title_color=3178C6&amp;icon_color=3178C6&amp;text_color=C9D1D9&amp;ring_color=3178C6&amp;border_color=30363D" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Basel-Ghonaim&amp;custom_title=Basel%20Ghonaim%27s%20GitHub%20Stats&amp;show_icons=true&amp;hide=stars,contribs&amp;rank_icon=github&amp;border_radius=10&amp;bg_color=00000000&amp;title_color=0A66C2&amp;icon_color=3178C6&amp;text_color=24292F&amp;ring_color=0A66C2&amp;border_color=D0D7DE" alt="GitHub Stats" height="170" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Basel-Ghonaim&amp;v=2&amp;custom_title=Basel%20Ghonaim%27s%20GitHub%20Stats&amp;show_icons=true&amp;hide=stars,contribs&amp;rank_icon=github&amp;border_radius=10&amp;bg_color=00000000&amp;title_color=3178C6&amp;icon_color=3178C6&amp;text_color=C9D1D9&amp;ring_color=3178C6&amp;border_color=30363D" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Basel-Ghonaim&amp;v=2&amp;custom_title=Basel%20Ghonaim%27s%20GitHub%20Stats&amp;show_icons=true&amp;hide=stars,contribs&amp;rank_icon=github&amp;border_radius=10&amp;bg_color=00000000&amp;title_color=0A66C2&amp;icon_color=3178C6&amp;text_color=24292F&amp;ring_color=0A66C2&amp;border_color=D0D7DE" alt="GitHub Stats" height="170" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Basel-Ghonaim&amp;layout=compact&amp;langs_count=8&amp;border_radius=10&amp;bg_color=00000000&amp;title_color=3178C6&amp;text_color=C9D1D9&amp;border_color=30363D" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basel-Ghonaim&amp;layout=compact&amp;langs_count=8&amp;border_radius=10&amp;bg_color=00000000&amp;title_color=0A66C2&amp;text_color=24292F&amp;border_color=D0D7DE" alt="Top Languages" height="170" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Basel-Ghonaim&amp;v=2&amp;layout=compact&amp;langs_count=8&amp;border_radius=10&amp;bg_color=00000000&amp;title_color=3178C6&amp;text_color=C9D1D9&amp;border_color=30363D" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basel-Ghonaim&amp;v=2&amp;layout=compact&amp;langs_count=8&amp;border_radius=10&amp;bg_color=00000000&amp;title_color=0A66C2&amp;text_color=24292F&amp;border_color=D0D7DE" alt="Top Languages" height="170" />
   </picture>
 </a>
 
@@ -91,8 +91,8 @@ I'm a frontend engineer based in Gaza City, Palestine, focused on building scala
 
 <a href="https://github.com/Basel-Ghonaim">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Basel-Ghonaim&amp;border_radius=10&amp;background=00000000&amp;border=30363D&amp;stroke=30363D&amp;ring=3178C6&amp;fire=3178C6&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;currStreakLabel=3178C6&amp;sideLabels=C9D1D9&amp;dates=8B949E" />
-    <img src="https://streak-stats.demolab.com?user=Basel-Ghonaim&amp;border_radius=10&amp;background=00000000&amp;border=D0D7DE&amp;stroke=D0D7DE&amp;ring=0A66C2&amp;fire=0A66C2&amp;currStreakNum=24292F&amp;sideNums=24292F&amp;currStreakLabel=0A66C2&amp;sideLabels=24292F&amp;dates=57606A" alt="GitHub Streak" height="170" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Basel-Ghonaim&amp;v=2&amp;border_radius=10&amp;background=00000000&amp;border=30363D&amp;stroke=30363D&amp;ring=3178C6&amp;fire=3178C6&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;currStreakLabel=3178C6&amp;sideLabels=C9D1D9&amp;dates=8B949E" />
+    <img src="https://streak-stats.demolab.com?user=Basel-Ghonaim&amp;v=2&amp;border_radius=10&amp;background=00000000&amp;border=D0D7DE&amp;stroke=D0D7DE&amp;ring=0A66C2&amp;fire=0A66C2&amp;currStreakNum=24292F&amp;sideNums=24292F&amp;currStreakLabel=0A66C2&amp;sideLabels=24292F&amp;dates=57606A" alt="GitHub Streak" height="170" />
   </picture>
 </a>
 
