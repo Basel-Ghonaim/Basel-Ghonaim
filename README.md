@@ -12,6 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-basel--ghonaim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basel-ghonaim)
 [![Gmail](https://img.shields.io/badge/Gmail-baselghonaim%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baselghonaim@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-basel__ghonaim-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/basel_ghonaim)
 
 </div>
 
@@ -104,7 +105,7 @@ I'm a frontend engineer based in Gaza City, Palestine, focused on building scala
 
 <div align="center">
 
-_"First, solve the problem. Then, write the code." — John Johnson_
+_"First, solve the problem. Then, write the code." — John Johnson_ 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:0A66C2&height=100&section=footer" width="100%" />
 
